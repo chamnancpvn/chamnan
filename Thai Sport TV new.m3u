@@ -7,17 +7,28 @@ https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
 https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 
 #EXTINF:-1  group-title="Thai1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai1" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
-https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Thai1" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
+
+http://183.182.100.184/live/mcothd/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai1" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
 
 https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 
 #EXTINF:-1 group-title="Thai1" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 36
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai1" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 36
 https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
+
+#EXTINF:-1 group-title="Thai1" tvg-logo="https://www.doohdbox.com/assets/201707301954111867603914.jpg" , ONE HD
+http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai1" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
 https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
@@ -28,6 +39,9 @@ https://cdn6.goprimetime.info/feed/ch2/index.m3u8
 #EXTINF:-1 group-title="Thai1" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH 8 
 https://cdn6.goprimetime.info/feed/ch8/index.m3u8
 
+#EXTINF:-1 group-title="Thai1" tvg-logo="https://www.doohdbox.com/assets/201707141416571863713023.jpg" , ThaiRath HD
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
 #EXTINF:-1 group-title="Thai1" tvg-logo="https://i.imgur.com/0AiJcrC.png" ,Thairath TV 32
 https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
 
@@ -35,49 +49,81 @@ https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="Thai1" ,True 4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+http://183.182.100.184/live/true4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240" group-title="Thai1",True 4U
+http://live.pjmcdn.info/live/True4U.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="Thai1",Workpoint HD
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+http://bit.ly/2mAEcAg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="Thai1",Workpoint HD
+http://bit.ly/2mCeSKm
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="Thai1",Workpoint HD
+http://bit.ly/2mB3ezn
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="Thai1",Nation TV
+http://live.nationtv.tv/hls/ntv_th_sd.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="Thai1",Nation TV
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Thai1",MONO29
+http://183.182.100.184/live/mono29/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Thai1",MONO29
 https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Thai1",MONO29 PLUS
+http://iliketot.dyndns.tv/9623847065ba466e90632cf686fade0b.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="Thai1",NBT 
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="Thai1",NBT
 https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Thai1",Thai PBS 
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Thai1",Thai PBS (Opt-1) (New!)
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Thai1",Thai PBS (Opt-2) (New!)
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Thai1",Thai PBS (Opt-3) (New!)
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="Thai1" ,AMARIN
 https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jiSgC6H.png" group-title="Thai1",Voice TV
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thai1",New18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+http://live.pjmcdn.info/live/New-TV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thai1",New18
+https://cdn6.goprimetime.info/feed/live99/newtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm3ZfUYgaqUoF8iqu8gteihNZ4Ek8GIVfq28dRbObI9uSC2Arg7VTigaFO" group-title="Thai1", MovieTV 3
+http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" ,Truesport HD1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/hd-tsport1_720/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/aR6co494MMddSe7BDmsv20oT8NYGvhXN6RcCgW6S.png" ,Truesport HD2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png" ,Truesport HD3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/hd-tsport3_720/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png" ,Truesport HD4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/hd-tsport4_720/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/gqKzi64ZKhMxsjUzXzSFUO0AXAFTPoMsekndisZ6.png" ,Truesport 2
-https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+https://cdn-laos.workpoint.news/sd-tsport2_480/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png" ,Truesport 5
 https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
@@ -86,112 +132,170 @@ https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/m7B6xwNTlvbHLhSjGCdETasrb0dAzV55DBs5aUEv.png" ,Truesport 7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png" ,Premier HD1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png" ,Premier HD2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.png" ,Premier HD3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png" ,Premier HD4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png" ,Premier HD5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/sd-tsport7_480/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png" ,FOXSPORT1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/V8VTTTLHFV18RiKg3TsjJqEVZZcw2MJ6OEhXTVkG.png" ,FOXSPORT2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/hleznW9ESp7nR5hk9S7oDk0xzW8L1GYLCV8IWLKI.png" ,FOXSPORT3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",TENNIS
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png" ,Premier HD1
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",GOLF
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png" ,Premier HD2
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png",TSport
-https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.png" ,Premier HD3
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png" ,Premier HD4
+https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 
-
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png" ,Premier HD5
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 
 
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3 HD33
-http://livesport2018.dyndns.tv:8080/live/3hd/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-ch3_720/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5 HD
-http://livesport2018.dyndns.tv:8080/live/5hd/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-ch5_720/index.m3u8
 
 #EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
-http://livesport2018.dyndns.tv:8080/live/7hd/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-ch_720/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
-http://livesport2018.dyndns.tv:8080/live/mcothd/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-mcot_720/index.m3u8
 
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
 
-http://livesport2018.dyndns.tv:8080/live/gmm/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-gmmchannel_480/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 36
-http://183.182.100.184/live/pptvthai/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-pptv_720/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/201707301954111867603914.jpg" , ONE HD
-http://livesport2018.dyndns.tv:8080/live/one/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-gmmone_720/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
-http://183.182.100.184/live/onehd/playlist.m3u8
+https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,Channel 2
 https://cdn6.goprimetime.info/feed/ch2/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH 8 
-https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-ch8_480/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/201707141416571863713023.jpg" , ThaiRath HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+https://cdn-laos.workpoint.news/hd-thairath_720/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" ,TNN24 
-http://livesport2018.dyndns.tv:8080/live/tnn/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-tnn24_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="Thai2" ,True 4U
-http://183.182.100.184/live/true4u/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-24u_480/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="Thai2",Workpoint HD
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+https://cdn-laos.workpoint.news/hd-workpoint_480/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="Thai2",Nation TV
-http://livesport2018.dyndns.tv:8080/live/nat/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-nation_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Thai2",MONO29
-http://livesport2018.dyndns.tv:8080/live/mon/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-mono_480/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="Thai2",NBT 
-http://livesport2018.dyndns.tv:8080/live/nbt/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-nbt_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Thai2",Thai PBS 
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+https://cdn-laos.workpoint.news/hd-tpbs_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="Thai2" ,AMARIN
-http://livesport2018.dyndns.tv:8080/live/ama/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-amarin_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jiSgC6H.png" group-title="Thai2",Voice TV
-https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thai2",New18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+http://live.pjmcdn.info/live/New-TV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/SMMTV.png " group-title="Thai2",Smm TV
+https://cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3 HD
+http://103.120.113.90:1935/psilive1a/3HD.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
+http://122.155.205.9/live/workpoint.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
+http://103.120.113.90:1935/psilive1a/Mono.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/monoplus.png",MonoPlus+
+http://96.30.124.101:1935/psilive3a/Mono_plus.stream_360p/playlist.m3u8
+
+ #EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/ch5.png",CH5 HD
+http://103.120.113.90:1935/psilive1a/5HD.stream_360p/playlist.m3u8
+
+ #EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/ch7.png",CH7 HD
+http://103.120.113.90:1935/psilive1a/7HD.stream_360p/playlist.m3u8
+
+ #EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV
+http://27.254.130.64:80/feed/chamarin/playlist.m3u8#
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+http://103.120.113.90:1935/psilive1a/GMM25.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairath TV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/74329b08-714c-43af-9e91-0aa154c1ccc7.png",CNN Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/f17c0c12-d66b-439e-b983-c3f7e0556518.png",BBC World News
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/nation.png",Nation TV
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
+
+ #EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
+
+ #EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/newtv.png",New 18
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
+
+ #EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE
+http://103.120.113.90:1935/psilive1a/OneHD.stream_360p/playlist.m3u8
+
+ #EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV
+http://103.120.113.90:1935/psilive1a/PPTV.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
+http://103.120.113.90:1935/psilive1a/True4U.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai3"tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
+http://103.120.113.90:1935/psilive1a/Voice_TV.stream_360p/playlist.m3u8
 
 
 
@@ -269,47 +373,56 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://51.52.156.22:8888/http/004
 
 
+#EXTINF:-1 group-title="China",CCTV1
 
+http://220.158.149.14:9999/live/TV00000000000000000101@HHZT;LIVE
+#EXTINF:-1 group-title="China",CCTV2
 
-#EXTINF:-1 group-title="inter" ,Comedy Central HD
-http://host4.dynns.com/wevelwe/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000007@HHZT;LIVE
 
-#EXTINF:-1 group-title="inter" ,Fox Action Movies HD (TH)
-http://host4.dynns.com/wevelwe/6744e98748214c32912a46d1c7277d55.m3u8
-#EXTINF:-1 group-title="inter" ,Fox Action Movies HD (EN)
-http://host4.dynns.com/wevelwe/206105b34a1c44b886c6cd3c59105803.m3u8
+#EXTINF:-1 group-title="China",CCTV3
 
-#EXTINF:-1 group-title="inter" ,Fox Thai (TH)
-http://host4.dynns.com/wevelwe/63cbfb466fe644dda11a8e109611a5cd.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000102@HHZT;LIVE
 
-#EXTINF:-1 group-title="inter" ,Fox Thai (EN)
-http://host4.dynns.com/wevelwe/d0bfb50bee3741a09c53f8099a64ad52.m3u8
+#EXTINF:-1 group-title="China",CCTV4
 
-#EXTINF:-1 group-title="inter" ,CCTV-4
-http://host4.dynns.com/wevelwe/5289381709e64f8db14a4ed75ab2b59f.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000015@HHZT;LIVE
 
-#EXTINF:-1 group-title="inter" ,CCTV-9 Documentary
-http://host4.dynns.com/wevelwe/b08a8052e6724bedba5399f662715ad1.m3u8
-#EXTINF:-1 group-title="inter" ,Star Chinese Channel (scc)
-http://host4.dynns.com/wevelwe/29a09591a6604ff3b798cd7ef809e4bd.m3u8
+#EXTINF:-1 group-title="China",CCTV5
 
-#EXTINF:-1 group-title="inter" ,Star Chinese Movies Legend (SCM Legend)
-http://host4.dynns.com/wevelwe/c8233976dbba4a06a101780907447375.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
 
-#EXTINF:-1 group-title="inter" ,National Geographic HD (TH)
-http://host4.dynns.com/wevelwe/29fb241f985c468e8e6ffa8942b00a69.m3u8
+#EXTINF:-1 group-title="China",CCTV6
 
-#EXTINF:-1 group-title="inter" ,National Geographic HD (EN)
-http://host4.dynns.com/wevelwe/850a8ca433184938bfaeaf770abc5d7a.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000105@HHZT;LIVE
 
-#EXTINF:-1 group-title="inter" ,Nat Geo Wild HD (TH)
-http://host4.dynns.com/wevelwe/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
+#EXTINF:-1 group-title="China",CCTV8
 
-#EXTINF:-1 group-title="inter" ,Nat Geo Wild HD (EN)
-http://host4.dynns.com/wevelwe/90d14bbf53d14b018d4439ffba6be283.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000103@HHZT;LIVE
 
+#EXTINF:-1 group-title="China",CCTV10
 
-#EXTINF:-1 group-title="inter" ,Nat Geo People HD (TH)
-http://host4.dynns.com/wevelwe/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000009@HHZT;LIVE
 
+#EXTINF:-1 group-title="China",CCTV11
 
+http://220.158.149.14:9999/live/TV00000000000000000010@HHZT;LIVE
+
+#EXTINF:-1 group-title="China",CCTV12
+
+http://220.158.149.14:9999/live/TV00000000000000000011@HHZT;LIVE
+
+#EXTINF:-1 group-title="China",CCTV13
+
+http://220.158.149.14:9999/live/TV00000000000000000014@HHZT;LIVE
+
+#EXTINF:-1 group-title="China",CCTV14
+http://220.158.149.14:9999/live/TV00000000000000000013@HHZT;LIVE
+
+#EXTINF:-1 group-title="China",CCTV15
+
+http://220.158.149.14:9999/live/TV00000000000000000012@HHZT;LIVE
+
+#EXTINF:-1group-title="China",CCTV17
+
+http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE
