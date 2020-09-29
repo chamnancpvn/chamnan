@@ -374,55 +374,51 @@ http://51.52.156.22:8888/http/004
 
 
 #EXTINF:-1 group-title="China",CCTV1
-
 http://220.158.149.14:9999/live/TV00000000000000000101@HHZT;LIVE
-#EXTINF:-1 group-title="China",CCTV2
-
+#EXTINF:-1 group-title="China" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560153027021_665.png",CCTV2
+  
 http://220.158.149.14:9999/live/TV00000000000000000007@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV3
-
+#EXTINF:-1 group-title="China" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560153046687_574.png",CCTV3
 http://220.158.149.14:9999/live/TV00000000000000000102@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV4
+#EXTINF:-1 group-title="China" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560153093308_820.png",CCTV4
 
 http://220.158.149.14:9999/live/TV00000000000000000015@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV5
+#EXTINF:-1 group-title="China"tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570516177957_509.png",CCTV5
 
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV6
+#EXTINF:-1 group-title="China"tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570516202019_982.png",CCTV6
 
 http://220.158.149.14:9999/live/TV00000000000000000105@HHZT;LIVE
-
-#EXTINF:-1 group-title="China",CCTV8
+#EXTINF:-1 group-title="China"tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570516239017_490.png",CCTV8
 
 http://220.158.149.14:9999/live/TV00000000000000000103@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV10
+#EXTINF:-1 group-title="China"tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570516286586_139.png",CCTV10
 
 http://220.158.149.14:9999/live/TV00000000000000000009@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV11
+#EXTINF:-1 group-title="China"tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570516300488_30.png",CCTV11
 
 http://220.158.149.14:9999/live/TV00000000000000000010@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV12
+#EXTINF:-1 group-title="China"tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570516312578_236.png",CCTV12
 
 http://220.158.149.14:9999/live/TV00000000000000000011@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV13
+#EXTINF:-1 group-title="China"tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg",CCTV13
 
 http://220.158.149.14:9999/live/TV00000000000000000014@HHZT;LIVE
-
-#EXTINF:-1 group-title="China",CCTV14
+#EXTINF:-1 group-title="China"tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560153134607_347.png",CCTV14
 http://220.158.149.14:9999/live/TV00000000000000000013@HHZT;LIVE
 
-#EXTINF:-1 group-title="China",CCTV15
+#EXTINF:-1 group-title="China"tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/12/1568281567855_617.png",CCTV15
 
 http://220.158.149.14:9999/live/TV00000000000000000012@HHZT;LIVE
 
-#EXTINF:-1group-title="China",CCTV17
+#EXTINF:-1group-title="China"tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564580847689_748.png",CCTV17
 
 http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE
