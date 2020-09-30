@@ -274,7 +274,7 @@ http://51.52.156.22:8888/http/004
 
 
 
-#EXTINF:-1 group-title="China",tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560152934637_902.png",CCTV1
+#EXTINF:-1 group-title="China" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560152934637_902.png",CCTV1
 http://220.158.149.14:9999/live/TV00000000000000000101@HHZT;LIVE
 #EXTINF:-1 group-title="China" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560153027021_665.png",CCTV2
   
