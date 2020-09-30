@@ -127,27 +127,27 @@ https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3 HD33
-http://livesport2018.dyndns.tv:8080/live/3hd/playlist.m3u8
+https://s0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=bjeNDc3MjVhYzczMTc5YTA2NzVjYwNjJjZWUwNzRmMzY0Mjlm
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5 HD
-http://livesport2018.dyndns.tv:8080/live/5hd/playlist.m3u8
+https://s0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=bjeZTQwMjA5OTdjOTIzZmM2OGE2OAMzI2OTczNjI2ZGNmYzZk
 
 #EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
-http://livesport2018.dyndns.tv:8080/live/7hd/playlist.m3u8
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
-http://livesport2018.dyndns.tv:8080/live/mcothd/playlist.m3u8
+https://s0.cdn.vet/live/ch9/i/ch9i.m3u8?sid=bjeMWNhYmYxZDcyYWI3YjBjNDNkNwMWE5NjFiNTExMzEwOTUx
 
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
 
-http://livesport2018.dyndns.tv:8080/live/gmm/playlist.m3u8
+https://s0.cdn.vet/live/ch0/i/ch0i.m3u8?sid=bjeNDUxODg2YzZjMGQ0YzQ0NGYxNgOWRkZWI1Mzg4ZjFmMzAw
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 36
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/201707301954111867603914.jpg" , ONE HD
-http://livesport2018.dyndns.tv:8080/live/one/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
 http://183.182.100.184/live/onehd/playlist.m3u8
@@ -162,7 +162,7 @@ https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" ,TNN24 
-http://livesport2018.dyndns.tv:8080/live/tnn/playlist.m3u8
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="Thai2" ,True 4U
 http://183.182.100.184/live/true4u/playlist.m3u8
@@ -171,27 +171,29 @@ http://183.182.100.184/live/true4u/playlist.m3u8
 https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="Thai2",Nation TV
-http://livesport2018.dyndns.tv:8080/live/nat/playlist.m3u8
+https://s0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=bjeNjY3ODFmOTdkMmZjNjBmYTI4OQMWQ5MDM0OGIzYThmZWQ3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Thai2",MONO29
-http://livesport2018.dyndns.tv:8080/live/mon/playlist.m3u8
+https://s0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeNmE5ODRhMjJmODcyNzAyYTBmOANTVkNjNlNTE3ZjgxYTU5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="Thai2",NBT 
-http://livesport2018.dyndns.tv:8080/live/nbt/playlist.m3u8
+https://s0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=bjeZTg0NDc1YWZkODdiMTJmZTY0ZAMzI3YzdlZDY2MThkNjFk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Thai2",Thai PBS 
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="Thai2" ,AMARIN
-http://livesport2018.dyndns.tv:8080/live/ama/playlist.m3u8
+https://s0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeYTAyODNiZDU4ZTQ5MWI5NTIzMgNzk2YWM4NjEzOGZhYTY0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jiSgC6H.png" group-title="Thai2",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thai2",New18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+https://s0.cdn.vet/live/ch30/i/ch30i.m3u8?sid=bjeMDJiMTM3Njg4ZDgxMWQ2MDJiNgOWNmOGYwMGE4NTFlMDdi
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" group-title="Thai2",New1
+http://news1.live14.com/stream/news1_hi.m3u8
 
 
 
@@ -272,7 +274,7 @@ http://51.52.156.22:8888/http/004
 
 
 
-#EXTINF:-1 group-title="China",CCTV1
+#EXTINF:-1 group-title="China",tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560152934637_902.png",CCTV1
 http://220.158.149.14:9999/live/TV00000000000000000101@HHZT;LIVE
 #EXTINF:-1 group-title="China" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560153027021_665.png",CCTV2
   
@@ -321,3 +323,10 @@ http://220.158.149.14:9999/live/TV00000000000000000012@HHZT;LIVE
 #EXTINF:-1group-title="China"tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564580847689_748.png",CCTV17
 
 http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE
+
+
+
+
+
+
+
