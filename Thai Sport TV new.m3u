@@ -127,20 +127,16 @@ https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3 HD33
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1601617378&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=bztwdX6LqBYTt7Cs4LDmQg
-
+https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5 HD
-http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
-
-
+https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
 
 #EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
-https://www.dailymotion.com/cdn/live/video/x74wlgj.m3u8?sec=PDsP7QFre-YJQfJ4YkbHRMNLK6xVnYkkVazoIjb1T1ZK14AQr5SL2XoFwovhkPa-1mnDT_g9zjN9YYX_vWVArg
-
+https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
@@ -148,7 +144,7 @@ https://www.dailymotion.com/cdn/live/video/x74wlgj.m3u8?sec=PDsP7QFre-YJQfJ4YkbH
 http://183.182.100.184/live/mcothd/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 36
-http://183.182.100.184/live/pptvthai/playlist.m3u8
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/201707301954111867603914.jpg" , ONE HD
 
@@ -160,25 +156,23 @@ http://183.182.100.184/live/onehd/playlist.m3u8
 https://cdn6.goprimetime.info/feed/ch2/index.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH 8 
-https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+https://www.livedoomovies.com/02_8HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/201707141416571863713023.jpg" , ThaiRath HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" ,TNN24 
-http://183.182.100.184/live/true4u/playlist.m3u8
+http://183.182.100.184/live/tnn16/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="Thai2" ,True 4U
 http://183.182.100.184/live/true4u/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="Thai2",Workpoint HD
-https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8k8SILMdp3IN5KZ3mKCQ_Ck)/dm/3/x6g9qjj/s/live-3.m3u8
-
-
+https://www.dailymotion.com/cdn/live/video/x6g9qjj.m3u8?sec=Dy7luKxYb1-JKhrTkgqsFZpsfIsZfyObzrtgx_A-Xt5rLBqNPS2jo-17qSL6_Y0O_bUvH-SUsAWBiE1gAxlfFA
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="Thai2",Nation TV
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+https://stream-01.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSUasJBcxk8fZJoUCq5E58TI)/dm/3/x6eoldf/d/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Thai2",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8?fbclid=IwAR1IXGTzU_ZHQVvllDGkRLj66-gMAgphZ2DdwCDKqEpQT99J0ppWv7cxuLc
@@ -202,7 +196,7 @@ https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thai2",New18
 https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" group-title="Thai2",New1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://news1live.com/images/news1-logo.png" group-title="Thai2",New1
 http://news1.live14.com/stream/news1_hi.m3u8
 
 
