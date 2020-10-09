@@ -128,41 +128,39 @@ https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3 HD33
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3 HD33
+https://s0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=bjeYWMwYzc0MGU1NTVhNTRlMTMwOAOTBkZTRkMDgxYjEwYjM5
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5 HD
 https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5 HD
 
 #EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
-https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
 https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
-
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
+https://s0.cdn.vet/live/ch9/i/ch9i.m3u8?sid=bjeNTZiMWVlMzcyOTRjN2QxNzBjNAODU2ZmZiMDQwMmM5ODE4
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
 
 http://183.182.100.184/live/mcothd/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 36
 https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/201707301954111867603914.jpg" , ONE HD
-
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 36
+http://183.182.100.184/live/pptvthai/playlist.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
 http://183.182.100.184/live/onehd/playlist.m3u8
 
-#EXTINF:-1 group-title="Thai2" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,Channel 2
-https://cdn6.goprimetime.info/feed/ch2/index.m3u8
-
-#EXTINF:-1 group-title="Thai2" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH 8 
-https://www.livedoomovies.com/02_8HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doohdbox.com/assets/201707141416571863713023.jpg" , ThaiRath HD
-https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 group-title="Thai2" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" ,TNN24 
-http://183.182.100.184/live/tnn16/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="Thai2" ,True 4U
 http://183.182.100.184/live/true4u/playlist.m3u8
@@ -186,15 +184,10 @@ http://122.155.92.8:1935/live/ch1_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Thai2",Thai PBS 
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="Thai2" ,AMARIN
-https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jiSgC6H.png" group-title="Thai2",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thai2",New18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://news1live.com/images/news1-logo.png" group-title="Thai2",New1
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -325,6 +318,13 @@ http://220.158.149.14:9999/live/TV00000000000000000012@HHZT;LIVE
 #EXTINF:-1group-title="China"tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564580847689_748.png",CCTV17
 
 http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE
+
+
+
+
+
+
+
 
 
 
