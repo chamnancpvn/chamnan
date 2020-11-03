@@ -277,17 +277,28 @@ https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 
 
+
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-cnn.png",CNN
-https://www.livedoomovies.com/02_CNN_720p/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Euronews.png",Euronews
 https://www.livedoomovies.com/02_Euronews_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="NEWS"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/74329b08-714c-43af-9e91-0aa154c1ccc7.png",CNN Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
 #EXTINF:-1 group-title="NEWS"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/f17c0c12-d66b-439e-b983-c3f7e0556518.png",BBC World News
-http://51.52.156.22:8888/http/004
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="NEWS"tvg-logo= ,ABC Australia
+https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/iJldO7U.jpg" ,NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 group-title="NEWS"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" ,CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+
+#EXTINF:-1 group-title="NEWS"tvg-logo=,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 
 
 
@@ -342,6 +353,13 @@ http://220.158.149.14:9999/live/TV00000000000000000012@HHZT;LIVE
 #EXTINF:-1group-title="China"tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564580847689_748.png",CCTV17
 
 http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE
+
+
+
+
+
+
+
 
 
 
