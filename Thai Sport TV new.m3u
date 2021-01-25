@@ -13,7 +13,6 @@ https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
 
 #EXTINF:-1 group-title="Thai1" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
-
 https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 
 #EXTINF:-1 group-title="Thai1" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 
@@ -132,16 +131,16 @@ https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8 
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD2
 36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD 
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
 http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8 
 https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8 
-#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD 
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
 https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8 
-#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD 
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
 https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8 
-#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch3-hd.png",3 HD 
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD 
 http://119.59.125.74/stream/totnew.php?channel_id=a4485b656d764f308c63b14a8bf62326
-#EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD3
+#EXTINF:-1 group-title="Thai2" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
 https://s0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=bjeYWMwYzc0MGU1NTVhNTRlMTMwOAOTBkZTRkMDgxYjEwYjM5
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.234.in.th/images/2020/11/17/ch5.png",5 HD 
