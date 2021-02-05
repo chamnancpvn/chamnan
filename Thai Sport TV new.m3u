@@ -59,7 +59,8 @@ https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thai1",New18
 https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i1.wp.com/www.songsue.co/wp-content/uploads/2021/01/toptvlogo.jpg?w=225&ssl=1"group-title="Thai1" ,TOP TV
+https://live.topnews.co.th/hls/topnews.m3u8
 
 
 
@@ -385,6 +386,8 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://news1live.com/images/news1-logo.png" group-title="Thai2",New1
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i1.wp.com/www.songsue.co/wp-content/uploads/2021/01/toptvlogo.jpg?w=225&ssl=1"group-title="Thai2" ,TOP TV
+https://live.topnews.co.th/hls/topnews.m3u8
 
 #EXTINF:-1 group-title="Sport2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" ,True HD1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
