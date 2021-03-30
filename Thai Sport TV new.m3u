@@ -63,6 +63,51 @@ https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 https://live.topnews.co.th/hls/topnews.m3u8
 
 
+#EXTINF:-1,3HD,group-title="Thai1-1"
+http://61.19.242.134/feed/ch3hd/playlist.m3u8
+#EXTINF:-1,5HD ,group-title="Thai1-1"
+http://61.19.242.134/feed/ch5hd/playlist.m3u8
+#EXTINF:-1,7HD ,group-title="Thai1-1"
+http://61.19.242.134/feed/ch7hd/playlist.m3u8
+#EXTINF:-1,MCOT HD ,group-title="Thai1-1"
+http://61.19.242.134/feed/chmcothd/playlist.m3u8
+#EXTINF:-1,NBT ,group-title="Thai1-1"
+http://61.19.242.134/feed/chnbt/playlist.m3u8
+#EXTINF:-1,THAI PBS ,group-title="Thai1-1"
+http://61.19.242.134/feed/chthaipbs/playlist.m3u8
+#EXTINF:-1,TPTV ,group-title="Thai1-1"
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1,TNN ,group-title="Thai1-1"
+http://61.19.242.134/feed/chtnn/playlist.m3u8
+#EXTINF:-1,NEW TV ,group-title="Thai1-1"
+http://61.19.242.134/feed/newtv/playlist.m3u8
+#EXTINF:-1,NATION ,group-title="Thai1-1"
+http://61.19.242.134/feed/chnation/playlist.m3u8
+#EXTINF:-1,WORKPIONT ,group-title="Thai1-1"
+http://61.19.242.134/feed/chworkpoint/playlist.m3u8
+#EXTINF:-1,TRUE4YOU ,group-title="Thai1-1"
+http://61.19.242.134/feed/chtrue4u/playlist.m3u8
+#EXTINF:-1,GMM 25 ,group-title="Thai1-1"
+http://61.19.242.134/feed/chgmm/playlist.m3u8
+#EXTINF:-1,8HD ,group-title="Thai1-1"
+http://61.19.242.134/feed/ch8/playlist.m3u8
+#EXTINF:-1,MONO 29 ,group-title="Thai1-1"
+http://61.19.242.134/feed/chmono29/playlist.m3u8 
+#EXTINF:-1,ONE HD ,group-title="Thai1-1"
+http://61.19.242.134/feed/chonehd/playlist.m3u8
+#EXTINF:-1,THAIRATH ,group-title="Thai1-1"
+http://61.19.242.134/feed/chthairath/playlist.m3u8
+#EXTINF:-1,AMARIN ,group-title="Thai1-1"
+http://61.19.242.134/feed/chamarin/playlist.m3u8
+#EXTINF:-1,PPTV ,group-title="Thai1-1"
+http://61.19.242.134/feed/chpptvhd/playlist.m3u8
+#EXTINF:-1, Topsnews ,group-title="Thai1-1"
+http://61.19.242.134/feed/chtopnews/index.m3u8
+#EXTINF:-1,NEW1 ,group-title="Thai1-1"
+http://news1.live14.com/stream/news1_hi.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" ,True HD1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
