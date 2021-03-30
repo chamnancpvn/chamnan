@@ -63,9 +63,9 @@ https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 https://live.topnews.co.th/hls/topnews.m3u8
 
 
-#EXTINF:-1,3HD,group-title="Thai1.1"
+#EXTINF:-1 group-title="Thai1.1" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" , 3HD
 http://61.19.242.134/feed/ch3hd/playlist.m3u8
-#EXTINF:-1,5HD ,group-title="Thai1.1"
+#EXTINF:-1 group-title="Thai1.1" ,5HD
 http://61.19.242.134/feed/ch5hd/playlist.m3u8
 #EXTINF:-1,7HD ,group-title="Thai1.1"
 http://61.19.242.134/feed/ch7hd/playlist.m3u8
