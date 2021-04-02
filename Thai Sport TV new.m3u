@@ -69,7 +69,7 @@ http://61.19.242.134/feed/ch3hd/playlist.m3u8
 http://61.19.242.134/feed/ch5hd/playlist.m3u8
 #EXTINF:-1 group-title="Thai1A",7HD
 http://61.19.242.134/feed/ch7hd/playlist.m3u8
-#EXTINF:-1 group-title="Thai1A" 9HD
+#EXTINF:-1 group-title="Thai1A",9HD
 http://61.19.242.134/feed/chmcothd/playlist.m3u8
 #EXTINF:-1 group-title="Thai1A" ,NBT
 http://61.19.242.134/feed/chnbt/playlist.m3u8
