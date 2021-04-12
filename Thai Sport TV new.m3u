@@ -108,6 +108,71 @@ http://news1.live14.com/stream/news1_hi.m3u8
 
 
 
+#EXTINF:-1 group-title="Thai1B" ,EPL1
+https://mediasv.online/live/trueepl1/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,EPL2
+https://mediasv.online/live/trueepl2/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,EPL3
+https://mediasv.online/live/trueepl3/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,TruesportHD
+https://mediasv.online/live/truesporthd/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,TruesportHD2
+https://mediasv.online/live/truesporthd2/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,TruesportHD3
+https://mediasv.online/live/truesporthd3/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,TruesportHD4
+https://mediasv.online/live/truesporthd4/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Ch3
+https://mediasv.online/tvchannel_x3/3hd_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Ch5
+https://mediasv.online/tvchannel_x3/5hd_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Ch7
+https://mediasv.online/tvchannel_x3/7hd_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Ch8
+https://mediasv.online/tvchannel_x3/ch8_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,One
+https://mediasv.online/tvchannel_x3/one_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Ch9
+https://mediasv.online/tvchannel_x3/mcothd_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,pptv
+https://mediasv.online/tvchannel_x3/pptv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,True4u
+https://mediasv.online/tvchannel_x3/true4u_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Tnn24
+https://mediasv.online/tvchannel_x3/tnn24_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,thaipbs
+https://mediasv.online/tvchannel_x3/thaipbs_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Nbt
+https://mediasv.online/tvchannel_x3/nbt_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Thairath
+https://mediasv.online/tvchannel_x3/thairath_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Nation
+https://mediasv.online/tvchannel_x3/nation_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Workpoint
+https://mediasv.online/tvchannel_x3/workpoint_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Gmm25
+https://mediasv.online/tvchannel_x3/gmm25_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Mono29
+https://mediasv.online/tvchannel_x3/mono29_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,New18
+https://mediasv.online/tvchannel_x3/new18_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Amarintv
+https://mediasv.online/live/amarintv/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,BOOMBERANG
+https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
+#EXTINF:-1 group-title="Thai1B" ,CBS
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/fe5ef467-057a-4c9b-bbaf-2f7c1bca2436:SIN2/master.m3u8
+#EXTINF:-1 group-title="Thai1B" ,TNN
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
+#EXTINF:-1 group-title="Thai1B" ,CH8
+https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Sun
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Euro news
+https://cdn6.goprimetime.info/feed/LC35/index.m3u8
+#EXTINF:-1 group-title="Thai1B" ,Box film
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" ,True HD1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
