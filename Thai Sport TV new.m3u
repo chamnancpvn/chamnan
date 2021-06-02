@@ -65,7 +65,7 @@ http://news1.live14.com/stream/news1_hi.m3u8
 
 
 
-#EXTINF:-1group-title="FUSO",CH3
+#EXTINF:-1 group-title="FUSO",CH3
 http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist_Fuso_Uhd.m3u8
 #EXTINF:-1 group-title="FUSO",CH5
 http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/chunklist_Fuso_Uhd.m3u8
