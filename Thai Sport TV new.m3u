@@ -186,9 +186,9 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/chunklist.m3u8
 
 
-#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7https://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8 
+#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,7HD
 http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist.m3u8
-#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7HD1
+#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,7HD1
 https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8 
 
 
