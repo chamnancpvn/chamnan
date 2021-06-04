@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Thai1" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
+#EXTINF:-1 group-title="Thai1"  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png"  , 3HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Thai1" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5HD
@@ -58,7 +58,7 @@ https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i1.wp.com/www.songsue.co/wp-content/uploads/2021/01/toptvlogo.jpg?w=225&ssl=1"group-title="Thai1" ,TOP TV
 https://live.topnews.co.th/hls/topnews.m3u8
 
-#EXTINF:-1 group-title="Thai1",NEW1
+#EXTINF:-1 tvg-logo="https://news1live.com/images/news1-logo.png" group-title="Thai1",NEW1
 http://news1.live14.com/stream/news1_hi.m3u8
 
 
