@@ -169,7 +169,6 @@ https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
 
 
 
-
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" , 3HD
 https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" , 3HD1
@@ -186,9 +185,9 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/chunklist.m3u8
 
 
-#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,7HD
+#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
 http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist.m3u8
-#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,7HD1
+#EXTINF:-1  group-title="Thai2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7HD1
 https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8 
 
 
@@ -284,13 +283,21 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/voice/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="Thai1" ,AMARIN
 http://916309128f3e.sn.mynetname.net:1935/aslive/amarintv/chunklist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thai1",New18
+http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://news1live.com/images/news1-logo.png" group-title="Thai2",New1
 http://news1.live14.com/stream/news1_hi.m3u8
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i1.wp.com/www.songsue.co/wp-content/uploads/2021/01/toptvlogo.jpg?w=225&ssl=1"group-title="Thai2" ,TOP TV
 https://live.topnews.co.th/hls/topnews.m3u8
+
+
+
 
 
 
