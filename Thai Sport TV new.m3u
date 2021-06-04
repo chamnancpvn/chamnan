@@ -107,6 +107,54 @@ http://live.topnews.co.th/hls/topnews.m3u8
 
 
 
+#EXTINF:-1 group-title="Dootv"  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png"  , 3HD
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="Dootv" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5HD
+http://live2.dootvde.com/live/50002_ch5.stream.smil/playist.m3u8
+
+#EXTINF:-1  group-title="Dootv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
+http://live2.dootvde.com/live/50003_ch7.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="Dootv" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
+http://live2.dootvde.com/live/50004_ch9.stream.smil/playist.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGES" group-title="Dootv",NBT HD2
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+
+
+#EXTINF:-1 tvg-logo="IMAGES" group-title="Dootv",NEW 18
+http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGES" group-title="Dootv",Nation 22
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGES" group-title="Dootv",Workpoint 23
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="Dootv" ,True 4U
+http​://live2.dootvde.com/live/50017_true_4u.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="Dootv" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="Dootv",MONO29
+http://live2.dootvde.com/live/50021_mono_tv.stream.smil/playist.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGES" group-title="Dootv",ONE 31
+http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGES" group-title="Dootv",Amarin 34
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="Dootv" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="Dootv" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH8
+http://live2.dootvde.com/live/50028_ch8.stream.smil/playist.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" ,True HD1
