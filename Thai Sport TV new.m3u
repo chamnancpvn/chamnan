@@ -346,6 +346,61 @@ https://live.topnews.co.th/hls/topnews.m3u8
 
 
 
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" ,True HD1
+http://178.175.132.170:8888/02_2sporthd_720p/chunklist.m3u
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" ,True HD2
+http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" ,True HD3
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" ,True HD4
+http://178.175.132.170:8888/02_2sporthd4_720p/chunklist.m3u
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" ,True 2
+http://178.175.132.170:8888/02_sport2_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" ,True 5
+http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png" ,True 6
+http://178.175.132.170:8888/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" ,True 7
+http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" ,Premier HD1
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" ,Premier HD2
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" ,Premier HD3
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" ,Premier HD4
+http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" ,Premier HD5
+http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://img.hplus.com.vn/226x127/poster/2019/08/16/721988-FOXsport.png" ,FOXSPORT1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://img.hplus.com.vn/226x127/poster/2019/08/16/622510-foxsport2.png" ,FOXSPORT2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://img.hplus.com.vn/226x127/poster/2019/07/16/851322-foxsport_3.png" ,FOXSPORT3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",TENNIS
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport1" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+
 
 
 
