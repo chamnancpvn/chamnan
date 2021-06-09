@@ -395,7 +395,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sport1" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",TENNIS
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="Sport1" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
