@@ -285,6 +285,31 @@ https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Sport2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" ,True HD1
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
+
+#EXTINF:-1 group-title="Sport2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" ,True HD2
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
+
+#EXTINF:-1 group-title="Sport2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" ,True HD3
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
+
+#EXTINF:-1 group-title="Sport2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" ,True HD4
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+
+#EXTINF:-1 group-title="Sport2" tvg-logo="https://img.hplus.com.vn/226x127/poster/2019/08/16/622510-foxsport2.png" ,FOXSPORT2
+https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
+
+#EXTINF:-1 group-title="Sport2" tvg-logo="https://img.hplus.com.vn/226x127/poster/2019/07/16/851322-foxsport_3.png" ,FOXSPORT3
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+
+#EXTINF:-1 group-title="Sport2" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 
+https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" , 3HD
 https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Thai2" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png" , 3HD1
