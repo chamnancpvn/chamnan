@@ -1,65 +1,74 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Thai01" , 3HD
+#EXTINF:-1 group-title="Thai11" , 3HD
 http://178.175.132.170:8888/02_3HD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , 5HD
+#EXTINF:-1 group-title="Thai11" , 5HD
 http://178.175.132.170:8888/02_5HD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , 7HD
+#EXTINF:-1 group-title="Thai11" , 7HD
 http://178.175.132.170:8888/02_7HD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , MCOTHD
+#EXTINF:-1 group-title="Thai11" , MCOTHD
 http://178.175.132.170:8888/02_MCOTHD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , 8HD
+#EXTINF:-1 group-title="Thai11" , 8HD
 http://178.175.132.170:8888/02_8HD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , THAIRATHD
+#EXTINF:-1 group-title="Thai11" , THAIRATHD
 http://178.175.132.170:8888/02_THAIRATH_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , GMMHD
+#EXTINF:-1 group-title="Thai11" , GMMHD
 http://178.175.132.170:8888/02_GMM_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , MONO
+#EXTINF:-1 group-title="Thai11" , MONO
 http://178.175.132.170:8888/02_MONO_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , PPTVHD
+#EXTINF:-1 group-title="Thai11" , PPTVHD
 http://178.175.132.170:8888/02_PPTVHD_720p/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="Thai01" , THAIPBS
+#EXTINF:-1 group-title="Thai11" , THAIPBS
 http://178.175.132.170:8888/02_THAIPBS_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , WOKPOINT
+#EXTINF:-1 group-title="Thai11" , WOKPOINT
 http://178.175.132.170:8888/02_WORKPOINT_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , AMARNHD
+#EXTINF:-1 group-title="Thai11" , AMARNHD
 http://178.175.132.170:8888/02_AMARINHD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , NBT
+#EXTINF:-1 group-title="Thai11" , NBT
 https://cloudserver.server-cdn-streaming.com/live-player/37/live.m3u8
 
-#EXTINF:-1 group-title="Thai01" , NBT
+#EXTINF:-1 group-title="Thai11" , NBT1
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1249643471.m3u8
 
-#EXTINF:-1 group-title="Thai01" , NBT
+#EXTINF:-1 group-title="Thai11" , NBT2
 http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , TNN
+#EXTINF:-1 group-title="Thai11" , TNN
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 
-#EXTINF:-1 group-title="Thai01" , True4u
+#EXTINF:-1 group-title="Thai11" , True4u
 https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , sporthd1
+#EXTINF:-1 group-title="Thai11" , sporthd1
 http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , sporthd2
+#EXTINF:-1 group-title="Thai11" , sporthd2
 http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thai01" , sporthd3
+#EXTINF:-1 group-title="Thai11" , sporthd3
 http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai11" , PremierHD1
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai11" , PremierHD2
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai11" , PremierHD3
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
 
 
 
