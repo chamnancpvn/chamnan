@@ -1,5 +1,68 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Thai01" , 3HD
+http://178.175.132.170:8888/02_3HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , 5HD
+http://178.175.132.170:8888/02_5HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , 7HD
+http://178.175.132.170:8888/02_7HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , MCOTHD
+http://178.175.132.170:8888/02_MCOTHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , 8HD
+http://178.175.132.170:8888/02_8HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , THAIRATHD
+http://178.175.132.170:8888/02_THAIRATH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , GMMHD
+http://178.175.132.170:8888/02_GMM_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , MONO
+http://178.175.132.170:8888/02_MONO_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , PPTVHD
+http://178.175.132.170:8888/02_PPTVHD_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Thai01" , THAIPBS
+http://178.175.132.170:8888/02_THAIPBS_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , WOKPOINT
+http://178.175.132.170:8888/02_WORKPOINT_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , AMARNHD
+http://178.175.132.170:8888/02_AMARINHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , NBT
+https://cloudserver.server-cdn-streaming.com/live-player/37/live.m3u8
+
+#EXTINF:-1 group-title="Thai01" , NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1249643471.m3u8
+
+#EXTINF:-1 group-title="Thai01" , NBT
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , TNN
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
+
+#EXTINF:-1 group-title="Thai01" , True4u
+https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , sporthd1
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , sporthd2
+http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Thai01" , sporthd3
+http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="Thai1"  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png"  , 3HD
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 
