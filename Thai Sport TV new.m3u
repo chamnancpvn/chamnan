@@ -451,7 +451,33 @@ https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
 
 
 
+2 Bein sport1
+3 BT SPORT 1
+4 BT SPORT 2
+5 Bein sport1
+6 Bein sport2
+11 Fox
+14 Premier HD1
+15 Premier HD2
+16 Premier HD3
+17 Premier HD4
+18 Premier HD5
+19 sport tv1
 
+#EXTINF:-1 group-title="Sport2",Bein sport1
+https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
+
+#EXTINF:-1 group-title="Sport2",BT SPORT 1
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
+
+#EXTINF:-1 group-title="Sport2",BT SPORT 2
+https://cloudserver.server-cdn-streaming.com/live-player/4/live.m3u8
+
+#EXTINF:-1 group-title="Sport2",Bein sport1
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+
+#EXTINF:-1 group-title="Sport2",Bein sport2
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 
 #EXTINF:-1 group-title="Sport2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" ,True HD1
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
@@ -465,14 +491,36 @@ https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 #EXTINF:-1 group-title="Sport2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" ,True HD4
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 
+#EXTINF:-1 group-title="Sport2",Fox
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+
 #EXTINF:-1 group-title="Sport2" tvg-logo="https://img.hplus.com.vn/226x127/poster/2019/08/16/622510-foxsport2.png" ,FOXSPORT2
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
 
 #EXTINF:-1 group-title="Sport2" tvg-logo="https://img.hplus.com.vn/226x127/poster/2019/07/16/851322-foxsport_3.png" ,FOXSPORT3
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 
+#EXTINF:-1 group-title="Sport2",Premier HD1
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
+
+#EXTINF:-1 group-title="Sport2",Premier HD2
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
+
+#EXTINF:-1 group-title="Sport2",Premier HD3
+https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
+
+#EXTINF:-1 group-title="Sport2",Premier HD4
+https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
+
+#EXTINF:-1 group-title="Sport2",Premier HD5
+https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
+
 #EXTINF:-1 group-title="Sport2" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 
 https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
+
+
+
+
 
 
 
