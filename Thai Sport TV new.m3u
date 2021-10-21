@@ -158,7 +158,110 @@ http://news1.live14.com/stream/news1_hi.m3u8
 
 
 
+#EXTINF:-1 group-title="ThaiDir",CH3 HD
+http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
 
+
+#EXTINF:-1 group-title="ThaiDir",CH3 HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiDir",CH5 HD
+http://host4.dynns.com/stream/1d92193b11fe490b8c67d0a88bee3fd6.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",CH5 HD
+freelive2.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",CH5 HD
+freelive.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",CH5 HD
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiDir",CH7 HD
+http://host4.dynns.com/stream/ddfa47e726444446864b14e0e819fdde.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",CH7 HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",CH7 HD
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="ThaiDir",MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",MCOT1 HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiDir",TNN
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
+
+
+#EXTINF:-1 group-title="ThaiDir",True4u
+https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",True4u
+http://host4.dynns.com/stream/9ece9059930d4331a3d445f96fb30dff.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",PPTV
+http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",GMM
+http://host4.dynns.com/stream/ab0b43ef8363438098a94101e93ca138.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",Workpoint
+http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",Mono
+http://host4.dynns.com/stream/fd23603db67344c69a8304a2fca268cd.m3u8
+
+
+#EXTINF:-1 group-title="ThaiDir",ONE
+http://host4.dynns.com/stream/7e069540a35942e89245865a84add64a.m3u8
+
+
+#EXTINF:-1 group-title="ThaiDir",CH8
+http://host4.dynns.com/stream/15c52eeb21b748319771eb794a6cf242.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",Amarin
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1 group-title="ThaiDir",Amarin
+http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",ThaiRath HD
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8?checkedby:hlscat.com 
+
+#EXTINF:-1 group-title="ThaiDir",ThaiRath HD
+http://host4.dynns.com/stream/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",NBT HD
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",NBT2 HD
+http://live.prd.go.th:1935/live/ch9_L.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiDir",TPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+
+
+#EXTINF:-1 group-title="ThaiDir",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",New1
+http://news1.live14.com/stream/news1_hi.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",New1
+https://server1.streamssl.com/stream/news1_hi.m3u8
+
+
+#EXTINF:-1 group-title="ThaiDir",New18
+http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
 
 
 
@@ -406,7 +509,7 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 
 
 
-
+⁹
 
 #EXTINF:-1 group-title="Thai3" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
 https://www.livedoomovie.com:4431/02_3HD_720p/chunklist.m3u8
