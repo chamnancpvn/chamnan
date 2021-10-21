@@ -170,10 +170,10 @@ https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 http://host4.dynns.com/stream/1d92193b11fe490b8c67d0a88bee3fd6.m3u8 
 
 #EXTINF:-1 group-title="ThaiDir",CH5 HD
-freelive2.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8 
+https://freelive2.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8 
 
 #EXTINF:-1 group-title="ThaiDir",CH5 HD
-freelive.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8 
+https://freelive.inwstream.com:1935/freelive-edge/5hd/playlist.m3u8 
 
 #EXTINF:-1 group-title="ThaiDir",CH5 HD
 http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
@@ -209,6 +209,12 @@ http://host4.dynns.com/stream/9ece9059930d4331a3d445f96fb30dff.m3u8
 
 #EXTINF:-1 group-title="ThaiDir",PPTV
 http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8 
+
+#EXTINF:-1 group-title="ThaiDir",PPTV
+http://freelive.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiDir",PPTV
+https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
 
 #EXTINF:-1 group-title="ThaiDir",GMM
 http://host4.dynns.com/stream/ab0b43ef8363438098a94101e93ca138.m3u8 
