@@ -1,4 +1,14 @@
 #EXTM3U
+
+#EXTINF:0,CH3
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
+#EXTINF:0,CH5
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
+#EXTINF:0,CH7
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
 #EXTINF:0,THAI PBS
 #EXTGRP:TV
 http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
