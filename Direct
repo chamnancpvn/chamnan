@@ -1,1 +1,73 @@
-
+#EXTM3U
+#EXTINF:0,THAI PBS
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
+#EXTINF:0,NEWTV
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/newtv/index.m3u8
+#EXTINF:0,NATION
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chnation/index.m3u8
+#EXTINF:0,NBT
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chnbt/index.m3u8
+#EXTINF:0,TNN
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chtnn/index.m3u8
+#EXTINF:0,WORKPOINT
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8
+#EXTINF:0,MONO
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
+#EXTINF:0,TRUE4U
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
+#EXTINF:0,GMM25
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+#EXTINF:0,CH8
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/ch8/index.m3u8
+#EXTINF:0,MCOT HD
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
+#EXTINF:0,THAIRATH
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chthairath/index.m3u8
+#EXTINF:0,ONE
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chonehd/index.m3u8
+#EXTINF:0,AMARIN
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chamarin/index.m3u8
+#EXTINF:0,PPTV
+#EXTGRP:TV
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
+#EXTINF:0,TOPNEWS
+#EXTGRP:TV
+https://live.topnews.co.th/hls/topnews_a_480.m3u8
+#EXTINF:0,True Premier 1
+#EXTGRP:sport
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
+#EXTINF:0,beIN Sports Premium 3 HD
+#EXTGRP:sport
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80032
+#EXTINF:0,True Premier 3
+#EXTGRP:sport
+https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
+#EXTINF:0,True Premier 4
+#EXTGRP:sport
+https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
+#EXTINF:0,True Sports HD1
+#EXTGRP:sport
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
+#EXTINF:0,beIN Sports Premium 1 HD
+#EXTGRP:sport
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80034
+#EXTINF:0,beIN Sports Premium 2 HD
+#EXTGRP:sport
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80033
+#EXTINF:0,True Sports HD4
+#EXTGRP:sport
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
