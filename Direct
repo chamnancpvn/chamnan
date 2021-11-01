@@ -1,83 +1,43 @@
-#EXTM3U
-
-#EXTINF:0,CH3
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
-#EXTINF:0,CH5
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
-#EXTINF:0,CH7
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
-#EXTINF:0,THAI PBS
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
-#EXTINF:0,NEWTV
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/newtv/index.m3u8
-#EXTINF:0,NATION
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chnation/index.m3u8
-#EXTINF:0,NBT
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chnbt/index.m3u8
-#EXTINF:0,TNN
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chtnn/index.m3u8
-#EXTINF:0,WORKPOINT
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8
-#EXTINF:0,MONO
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
-#EXTINF:0,TRUE4U
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
-#EXTINF:0,GMM25
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
-#EXTINF:0,CH8
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/ch8/index.m3u8
-#EXTINF:0,MCOT HD
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
-#EXTINF:0,THAIRATH
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chthairath/index.m3u8
-#EXTINF:0,ONE
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chonehd/index.m3u8
-#EXTINF:0,AMARIN
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chamarin/index.m3u8
-#EXTINF:0,PPTV
-#EXTGRP:TV
-http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
-#EXTINF:0,TOPNEWS
-#EXTGRP:TV
-https://live.topnews.co.th/hls/topnews_a_480.m3u8
-#EXTINF:0,True Premier 1
-#EXTGRP:sport
-https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
-#EXTINF:0,beIN Sports Premium 3 HD
-#EXTGRP:sport
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80032
-#EXTINF:0,True Premier 3
-#EXTGRP:sport
-https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
-#EXTINF:0,True Premier 4
-#EXTGRP:sport
-https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
-#EXTINF:0,True Sports HD1
-#EXTGRP:sport
-https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
-#EXTINF:0,beIN Sports Premium 1 HD
-#EXTGRP:sport
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80034
-#EXTINF:0,beIN Sports Premium 2 HD
-#EXTGRP:sport
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80033
-#EXTINF:0,True Sports HD4
-#EXTGRP:sport
-https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+{
+"name": " Jackiptv",
+"author": "jackcymry",
+"image": "https://scontent.fnak3-1.fna.fbcdn.net/v/t1.6435-9/166284244_115837960595012_3466510131156500567_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8631f5&_nc_ohc=fM4a1c4h1_UAX9sFD9k&tn=DOSUewSl0ku1H3_5&_nc_ht=scontent.fnak3-1.fna&oh=b4e7067eb40850c9819e07f56e244471&oe=618DEDAB",
+"groups": [
+{
+"name": "       TOT DTV",
+"image": "https://news.mthai.com/app/uploads/2019/05/24-04-18-19.jpg",
+"url": "https://pastebin.com/raw/kxLbEsqK",
+"import": true
+},
+{
+"name": "       Kids TV",
+"image": "https://images-na.ssl-images-amazon.com/images/I/71klazTZ5rL.png",
+"url": "https://pastebin.com/raw/fnMKZ3k3",
+"import": "true"
+},
+{
+"name": "       Movies TV",
+"image": "https://play-lh.googleusercontent.com/wNeMGSrrZWBzH1lFZ9zUGuYmZJM1l6rqV_5-1ssYymxQaPN0zvUYZUqWxaouHE--QQ",
+"url": "https://pastebin.com/raw/MvyCVTBx",
+"import": "true"
+},
+{
+"name": "       สารคดี",
+"image": "https://cdni-hw.bugaboo.tv/i/mg/5/6/f/56f6cbd738bfc977dd0748786291e26d_web_wild_survival.jpg",
+"url": "https://pastebin.com/raw/N4CCGXkc",
+"import": "true"
+},
+{
+"name": "        กีฬา",
+"image": "https://siamrath.co.th/files/styles/1140/public/img/20190810/e945719a388ccc3014c6f4954aae4f037bbf2d92e301954afad1709d7b04bb67.jpg?itok=MFXkkePK",
+"url": "https://pastebin.com/raw/RwRVJmqx",
+"import": "true"
+},
+{
+"name": "     รวมซีรี่ย์",
+"image": "https://scontent.fnak3-1.fna.fbcdn.net/v/t1.6435-9/166284244_115837960595012_3466510131156500567_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8631f5&_nc_ohc=fM4a1c4h1_UAX9sFD9k&tn=DOSUewSl0ku1H3_5&_nc_ht=scontent.fnak3-1.fna&oh=b4e7067eb40850c9819e07f56e244471&oe=618DEDAB",
+"url": "https://pastebin.com/raw/9K9hLiSF",
+"import": "true"
+},
+]
+}
