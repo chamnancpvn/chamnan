@@ -1,43 +1,155 @@
 {
-"name": " Jackiptv",
-"author": "jackcymry",
-"image": "https://scontent.fnak3-1.fna.fbcdn.net/v/t1.6435-9/166284244_115837960595012_3466510131156500567_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8631f5&_nc_ohc=fM4a1c4h1_UAX9sFD9k&tn=DOSUewSl0ku1H3_5&_nc_ht=scontent.fnak3-1.fna&oh=b4e7067eb40850c9819e07f56e244471&oe=618DEDAB",
+  "name": "ช่างต่อ จานดาวเทียม",
+  "author": "CTSCAM&SAT",
+"info": "gakken49@gmail.com",
+  "url": "https://drive.google.com/uc?id=1quKUDXpkTYtLwpdEdblY60Vhr5lI6eUI",
+"image": "https://i.gifer.com/XTAN.gif",
 "groups": [
 {
-"name": "       TOT DTV",
-"image": "https://news.mthai.com/app/uploads/2019/05/24-04-18-19.jpg",
-"url": "https://pastebin.com/raw/kxLbEsqK",
-"import": true
+"name": "live TV",
+"image": "https://miro.medium.com/max/1024/1*Je3OTAKSjvIIUvTJ_iAlAg.gif",
+"groups": [
+{
+"name": "ทีวีดิจิตอล",
+"image": "https://drive.google.com/uc?id=1YFEissUonHXD0uqyqfyaq4gPbryNKa00",
+"stations":  [
+{
+"name": "ททบ. 5",
+"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
+"url": "https://we-play.tv/watching/tv/ch5-hd",
+"referer": "",
+"playInNatPlayer": "จริง"
 },
 {
-"name": "       Kids TV",
-"image": "https://images-na.ssl-images-amazon.com/images/I/71klazTZ5rL.png",
-"url": "https://pastebin.com/raw/fnMKZ3k3",
-"import": "true"
+"name": "NBT",
+"image": "https://www.doofree88.com/storage/live/nbt.png",
+"url": "https://we-play.tv/watching/tv/11-nbt",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
 },
 {
-"name": "       Movies TV",
-"image": "https://play-lh.googleusercontent.com/wNeMGSrrZWBzH1lFZ9zUGuYmZJM1l6rqV_5-1ssYymxQaPN0zvUYZUqWxaouHE--QQ",
-"url": "https://pastebin.com/raw/MvyCVTBx",
-"import": "true"
+"name": "TPBS",
+"image": "https://www.saturday-school.org/wp-content/uploads/2019/08/thai-pbs-logo-png-4.png",
+"url": "https://we-play.tv/watching/tv/thai-pbs",
+"playInNatPlayer": "true"
 },
 {
-"name": "       สารคดี",
-"image": "https://cdni-hw.bugaboo.tv/i/mg/5/6/f/56f6cbd738bfc977dd0748786291e26d_web_wild_survival.jpg",
-"url": "https://pastebin.com/raw/N4CCGXkc",
-"import": "true"
+"name": "ALTV by Thaipbs",
+"image": "https://www.altv.tv/_nuxt/img/84f4d59.png",
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
-"name": "        กีฬา",
-"image": "https://siamrath.co.th/files/styles/1140/public/img/20190810/e945719a388ccc3014c6f4954aae4f037bbf2d92e301954afad1709d7b04bb67.jpg?itok=MFXkkePK",
-"url": "https://pastebin.com/raw/RwRVJmqx",
-"import": "true"
+"name": "TPTV",
+"image": "https://i.imgur.com/Jrqo8JP.png",
+"url": "http://live.parliament.go.th/livestream/encoder3/chunklist.m3u8",
+"playInNatPlayer": "true"
 },
 {
-"name": "     รวมซีรี่ย์",
-"image": "https://scontent.fnak3-1.fna.fbcdn.net/v/t1.6435-9/166284244_115837960595012_3466510131156500567_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8631f5&_nc_ohc=fM4a1c4h1_UAX9sFD9k&tn=DOSUewSl0ku1H3_5&_nc_ht=scontent.fnak3-1.fna&oh=b4e7067eb40850c9819e07f56e244471&oe=618DEDAB",
-"url": "https://pastebin.com/raw/9K9hLiSF",
-"import": "true"
+"name": "TNN",
+"image": "https://bettopfivemovie.com/wp-content/uploads/2020/09/sd-tnn16.png",
+"url": "https://www.tnnthailand.com/live",
+"playInNatPlayer": "true"
 },
-]
+{
+"name": "NEW 18",
+"image": "https://www.newtv.co.th/assets/newtv/img/new18logo_new.png",
+"url": "https://www.newtv.co.th/live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV",
+"image": "https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",
+"url": "https://we-play.tv/watching/tv/nationtv",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://we-play.tv/watching/tv/workpoint",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True4u",
+"image": "https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",
+"url": "https://we-play.tv/watching/tv/true4u",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM25",
+"image": "https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",
+"url": "https://we-play.tv/watching/tv/gmm25",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",
+"url": "https://www.thaich8.com/live",
+"playInNatPlayer": "true"
+},
+{
+"name": "MONO29 HD",
+"image": "https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",
+"url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w2039984011.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mcot HD",
+"image": "https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",
+"url": "https://we-play.tv/watching/tv/mcot-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 HD",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",
+"url": "https://cdn6.goprimetime.info/feed//chonehd/playlist.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath HD",
+"image": "https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",
+"url": "https://we-play.tv/watching/tv/thairath-tv",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD",
+"image": "https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",
+"url": "https://we-play.tv/watching/tv/ch3-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV",
+"image": "https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",
+"url": "https://we-play.tv/watching/tv/amarin-tv",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "7HD",
+"image": "https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png",
+"url": "https://we-play.tv/watching/tv/ch7-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV HD",
+"image": "https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",
+"url": "https://we-play.tv/watching/tv/pptv-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Topsnews",
+"image": "https://pbs.twimg.com/profile_images/1344623341617831936/QGJCgwW0.jpg",
+"url": "https://live.topnews.co.th/hls/topnews.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
 }
+]
+},
