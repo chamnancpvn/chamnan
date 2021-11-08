@@ -1,5 +1,68 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ThaiTV" ,3HD
+http://96.30.124.99:1935/edgepsi/psi-ch3hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,5HD
+http://96.30.124.99:1935/edgepsi/psi-ch5hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,7HD
+http://96.30.124.99:1935/edgepsi/psi-7hd.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiTV" ,8HD
+http://96.30.124.99:1935/edgepsi/psi-8hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,MCOTHD
+http://96.30.124.99:1935/edgepsi/psi-mcot.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiTV" ,PPTVHD
+
+
+#EXTINF:-1group-title="ThaiTV" ,TNN
+http://96.30.124.99:1935/edgepsi/psi-tnn.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,TRUE4U
+http://96.30.124.99:1935/edgepsi/psi-true4u.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiTV" ,GMM
+http://96.30.124.99:1935/edgepsi/psi-gmm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,ONE
+http://96.30.124.99:1935/edgepsi/psi-one31.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,MONO
+http://96.30.124.99:1935/edgepsi/psi-mono29.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,WORKPOINT
+http://96.30.124.99:1935/edgepsi/psi-workpoint.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiTV" ,Thairath HD
+http://96.30.124.99:1935/edgepsi/psi-thairattv.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiTV" ,PBS
+http://96.30.124.99:1935/edgepsi/psi-tpbs.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,NBT
+
+
+
+#EXTINF:-1 group-title="ThaiTV" ,NATION
+http://96.30.124.99:1935/edgepsi/psi-nation.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ThaiTV" ,Amarin
+http://96.30.124.99:1935/edgepsi/psi-amarin.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,TOP NEWS
+http://96.30.124.99:1935/edgepsi/psi-77.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-chno="13" tvg-id="ch3.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/ch3.png?rev=8",CH3 HD Backup
 http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5 HD
