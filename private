@@ -751,7 +751,80 @@ https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8 
 
 
+#EXTINF:-1 group-title="Sport", True Sports HD1
+https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8 
 
+#EXTINF:-1 group-title="Sport" ,True Sports HD2
+https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8 
+
+#EXTINF:-1 group-title="Sport", True Sports HD3
+https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,True Sports HD4 
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,True Sports 5
+https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8 
+
+#EXTINF:-1 group-title="Sport",True Sports 7 
+https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
+
+
+#EXTINF:-1 group-title="Sport" ,True Premier 1 
+https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,True Premier 2
+https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,True Premier 3
+https://master.server-cdn-streaming.com/api/live-player/47/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,True Premier 4
+https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,True Premier 5
+https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,SPOTV 
+https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,SPOTV 2 
+https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
+#EXTINF:-1 group-title="Sport" ,BT Sport 1
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,Bein Sports 1 True
+https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,Bein Sports 2 True
+https://master.server-cdn-streaming.com/api/live-player/42/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,NBA True
+https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,True Tennis
+https://master.server-cdn-streaming.com/api/live-player/34/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,Golf Channel Thailand True
+https://master.server-cdn-streaming.com/api/live-player/35/live.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,NBC Golf 
+http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,SkySports Golf 
+http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/98779.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,Sony Ten 1 
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,Sony Ten 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8 
+
+#EXTINF:-1 group-title="Sport" ,Sony Ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 
 
 
