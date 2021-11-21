@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ฟรีทีวี",CH3
+http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist_w1814553337.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",CH5
+http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/chunklist_w1215236803.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",CH7
+http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist_w736802247.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",MCOT 30
+https://tc-live1.sanook.com/live/22302_ch9.m3u8
+
+#EXTINF:-1 group-title="ฟรีทีวี",NBT
+http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/chunklist_w1864354223.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",TPBS
+http://bit.ly/2mB15nj
+#EXTINF:-1 group-title="ฟรีทีวี",JKN
+http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist_w1906188811.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",Nation 22
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",Workpoint23
+http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunklist_w1265339050.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี", TOPNews
+https://live.topnews.co.th/hls/topnews_b_1080.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",True4U 24
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/true4u_480p/chunks.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",GMM25
+http://916309128f3e.sn.mynetname.net:1935/aslive/gmm25/chunklist_w2135572054.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",CH8 27
+http://stream.rs.co.th/ch8-hi/index.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",MONO 29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w997174519.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",ONE 31
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",THAIRATH32
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",AMARIN34
+http://916309128f3e.sn.mynetname.net:1935/aslive/amarintv/chunklist_w339683889.m3u8
+#EXTINF:-1 group-title="ฟรีทีวี",PPTV36
+http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_w1517173526.m3u8
+
+
+
 #EXTINF:-1 group-title="ThaiTV" ,3HD
 http://96.30.124.99:1935/edgepsi/psi-ch3hd.stream/playlist.m3u8
 
